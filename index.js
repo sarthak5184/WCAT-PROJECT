@@ -105,3 +105,4 @@ function removeAll(data, remove)
     return data.split(remove).join("");
 }
 }
+//wcat project
